@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnagramPoc</string>
+    <string name="noti_channel_default">Primary Channel</string>
+</resources>
